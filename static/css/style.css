@@ -1,0 +1,46 @@
+.row {
+   width: 100%;
+   margin: 0;
+}
+
+.row>* {
+   padding: 0;
+}
+
+.navbar{
+   padding: 1rem 0;
+   background-color: #222;
+}
+
+.sidenav {
+   box-shadow: -2px 0px 1px 0px white;
+}
+
+.post img {
+   height: 250px;
+   object-fit: cover;
+}
+
+.carousel-section img {
+   height: 400px;
+}
+
+.content1 .card-body {
+   background-color: #444;
+}
+
+.content2 .card-body {
+   background-color: #444;
+   color: white !important;
+}
+.content3 .card-body {
+   background-color: #ddd;
+}
+
+.footer {
+   background-color: #444;
+}
+
+.footer a {
+   color: #ddd;
+}
